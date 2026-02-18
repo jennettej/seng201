@@ -1,14 +1,14 @@
-As a user, I want to see all available room types so I can choose the best option.
-Priority: Medium
-
-As a user, I want to make a reservation so I will have a room to stay in.
+JJ: 
+As a system user, I want a menu to choose appropriate options.
 Priority: High
 
-As a user I want to cancel a reservation so I can change travel plans.
-Priority: Medium
+JJ: 
+The system needs a standard method of handling date functions (date-add, date-diff, etc)
+Priority: High
 
-As a user, I want to accept multiple payment types (credit card, cash, PayPal) so that I have flexibility.
-Priority: Low
+JJ:
+The system needs methods to read in the resevration file and write out the reservation file. It needs to be easy, flexible, and callable from everywhere.
+Priority: High
 
 AD:
 
