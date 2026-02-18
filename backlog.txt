@@ -9,3 +9,37 @@ Priority: Medium
 
 As a user, I want to accept multiple payment types (credit card, cash, PayPal) so that I have flexibility.
 Priority: Low
+
+AD:
+
+
+RG:
+
+
+DH:
+
+
+DK:
+
+
+NK:
+
+
+ML:
+
+
+JM:
+
+
+WM:
+
+
+MP:
+
+
+JR:
+
+
+BS:
+
+
